@@ -31,8 +31,8 @@ WA_Fn-UseC_-Telco-Customer-Churn.csv
 * telecom_customer_churn.py
 * README.md
 * Terminal output.png
-* Graph 1.png
-* Graph 2.png
+* Figure 1.png
+* Figure 2.png
 
 ## Output
 
